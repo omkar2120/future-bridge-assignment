@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Movie1",
+        "rating":"5",
+        "releaseDate":"25th June 2023"
+    },
+    {
+        "name": "Movie2",
+        "rating":"5",
+        "releaseDate":"25th June 2023"
+    },
+    {
+        "name": "Movie3",
+        "rating":"5",
+        "releaseDate":"25th June 2023"
+    },
+    {
+        "name": "Movie3",
+        "rating":"5",
+        "releaseDate":"25th June 2023"
+    },
+    {
+        "name": "Movie3",
+        "rating":"5",
+        "releaseDate":"25th June 2023"
+    },
+    {
+        "name": "Movie3",
+        "rating":"5",
+        "releaseDate":"25th June 2023"
+    },
+    {
+        "name": "Movie3",
+        "rating":"5",
+        "releaseDate":"25th June 2023"
+    },
+    {
+        "name": "Movie3",
+        "rating":"5",
+        "releaseDate":"25th June 2023"
+    }
+
+]
